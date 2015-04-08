@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="nl" dir="ltr">
   <head>
-    <title>Welcome | Bright Venture Lab</title>
+    <title>Welcome | Bright Business Lab</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="title" content="Welcome" />
     <meta name="description" content="Bright is a no nonsense, strategic advisory firm devoted to making other businesses flourish. Instigating sustainable growth and entrepreneurship, we aim to be the best long-term strategic partner for our clients and partners, as well as the environment and society we live in." />
@@ -66,9 +66,9 @@
   <body>
     <div class="page">
       <figure class="logo">
-        <img width="600" src="logo-bright-venture-lab.jpg" alt="Logo Bright Venture Lab" />
+        <img width="600" src="logo-bright-business-lab.jpg" alt="Logo Bright Business Lab" />
       </figure>
-      <h1>Bright Venture Lab</h1>
+      <h1>Bright Business Lab</h1>
       <p>Coming soon</p>
     </div>
 
